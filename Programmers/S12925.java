@@ -43,8 +43,8 @@ public class S12925 {
             return answer;
         }
     }
-
-    static void main() {
+    
+    public static void main(String[] args) {
 //        System.out.println(solution("-1"));
 //        System.out.println(solution("15"));
 
@@ -56,3 +56,4 @@ public class S12925 {
     }
 
 }
+
