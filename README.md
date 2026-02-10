@@ -26,6 +26,8 @@
 | Programmers | 문자열을 정수로 바꾸기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12925" target="_blank">문제</a> / <a href="./Programmers/S12925.java" target="_blank">코드</a> | |
 | Programmers | 약수의 합 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12928" target="_blank">문제</a> / <a href="./Programmers/S12928.java" target="_blank">코드</a> | |
 | Programmers | 정수 내림차순으로 배치하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12933" target="_blank">문제</a> / <a href="./Programmers/S12933.java" target="_blank">코드</a> | |
+| Programmers | 하샤드 수 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12947" target="_blank">문제</a> / <a href="./Programmers/S12947.java" target="_blank">코드</a> | |
+| Programmers | 정수 제곱근 판별 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12934" target="_blank">문제</a> / <a href="./Programmers/S12934.java" target="_blank">코드</a> | |
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
 |------|------|--------|------|------|
