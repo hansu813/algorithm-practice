@@ -31,6 +31,7 @@
 | Programmers | 자연수 뒤집어 배열 만들기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12932" target="_blank">문제</a> / <a href="./Programmers/S12932.java" target="_blank">코드</a> | |
 | Programmers | 자릿수 더하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12931" target="_blank">문제</a> / <a href="./Programmers/S12931.java" target="_blank">코드</a> | |
 | Programmers | 두 정수 사이의 합 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12912" target="_blank">문제</a> / <a href="./Programmers/S12912.java" target="_blank">코드</a> | |
+| Programmers | 문자열 내 p와 y의 개수 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12916" target="_blank">문제</a> / <a href="./Programmers/S12916.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
