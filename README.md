@@ -32,6 +32,8 @@
 | Programmers | 자릿수 더하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12931" target="_blank">문제</a> / <a href="./Programmers/S12931.java" target="_blank">코드</a> | |
 | Programmers | 두 정수 사이의 합 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12912" target="_blank">문제</a> / <a href="./Programmers/S12912.java" target="_blank">코드</a> | |
 | Programmers | 문자열 내 p와 y의 개수 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12916" target="_blank">문제</a> / <a href="./Programmers/S12916.java" target="_blank">코드</a> | |
+| Programmers | 음양 더하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501" target="_blank">문제</a> / <a href="./Programmers/S76501.java" target="_blank">코드</a> | |
+| Programmers | 없는 숫자 더하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051" target="_blank">문제</a> / <a href="./Programmers/S86051.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
