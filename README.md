@@ -37,6 +37,7 @@
 | Programmers | 나누어 떨어지는 숫자 배열 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12910" target="_blank">문제</a> / <a href="./Programmers/S12910.java" target="_blank">코드</a> | |
 | Programmers | 서울에서 김서방 찾기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919" target="_blank">문제</a> / <a href="./Programmers/S12919.java" target="_blank">코드</a> | |
 | Programmers | 콜라츠 추측 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943" target="_blank">문제</a> / <a href="./Programmers/S12943.java" target="_blank">코드</a> | |
+| Programmers | 핸드폰 번호 가리기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12948" target="_blank">문제</a> / <a href="./Programmers/S12948.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
