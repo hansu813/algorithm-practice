@@ -39,6 +39,7 @@
 | Programmers | 콜라츠 추측 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943" target="_blank">문제</a> / <a href="./Programmers/S12943.java" target="_blank">코드</a> | |
 | Programmers | 핸드폰 번호 가리기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12948" target="_blank">문제</a> / <a href="./Programmers/S12948.java" target="_blank">코드</a> | |
 | Programmers | 가운데 글자 가져오기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903" target="_blank">문제</a> / <a href="./Programmers/S12903.java" target="_blank">코드</a> | |
+| Programmers | 제일 작은 수 제거하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935#" target="_blank">문제</a> / <a href="./Programmers/S12935.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
