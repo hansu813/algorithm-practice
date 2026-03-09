@@ -42,6 +42,8 @@
 | Programmers | 제일 작은 수 제거하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935#" target="_blank">문제</a> / <a href="./Programmers/S12935.java" target="_blank">코드</a> | |
 | Programmers | 내적 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128" target="_blank">문제</a> / <a href="./Programmers/S70128.java" target="_blank">코드</a> | |
 | Programmers | 수박수박수박수박수박수? | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922" target="_blank">문제</a> / <a href="./Programmers/S12922.java" target="_blank">코드</a> | |
+| Programmers | 약수의 개수와 덧셈 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77884" target="_blank">문제</a> / <a href="./Programmers/S77884.java" target="_blank">코드</a> | |
+| Programmers | 문자열 내림차순으로 배치하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917" target="_blank">문제</a> / <a href="./Programmers/S12917.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
