@@ -44,6 +44,8 @@
 | Programmers | 수박수박수박수박수박수? | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922" target="_blank">문제</a> / <a href="./Programmers/S12922.java" target="_blank">코드</a> | |
 | Programmers | 약수의 개수와 덧셈 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77884" target="_blank">문제</a> / <a href="./Programmers/S77884.java" target="_blank">코드</a> | |
 | Programmers | 문자열 내림차순으로 배치하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917" target="_blank">문제</a> / <a href="./Programmers/S12917.java" target="_blank">코드</a> | |
+| Programmers | 부족한 금액 게산하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612" target="_blank">문제</a> / <a href="./Programmers/S82612.java" target="_blank">코드</a> | |
+| Programmers | 문자열 다루기 기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12918" target="_blank">문제</a> / <a href="./Programmers/S12918.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
