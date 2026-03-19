@@ -47,7 +47,8 @@
 | Programmers | 부족한 금액 게산하기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612" target="_blank">문제</a> / <a href="./Programmers/S82612.java" target="_blank">코드</a> | |
 | Programmers | 문자열 다루기 기본 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12918" target="_blank">문제</a> / <a href="./Programmers/S12918.java" target="_blank">코드</a> | |
 | Programmers | 행렬의 덧셈 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950" target="_blank">문제</a> / <a href="./Programmers/S12950.java" target="_blank">코드</a> | |
-| Programmers | 최댓값과 최솟 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939" target="_blank">문제</a> / <a href="./Programmers/S12939.java" target="_blank">코드</a> | |
+| Programmers | 최댓값과 최솟값 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939" target="_blank">문제</a> / <a href="./Programmers/S12939.java" target="_blank">코드</a> | |
+| Programmers | 직사각형 별찍기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12969" target="_blank">문제</a> / <a href="./Programmers/S12969.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
