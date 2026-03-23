@@ -49,6 +49,8 @@
 | Programmers | 행렬의 덧셈 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950" target="_blank">문제</a> / <a href="./Programmers/S12950.java" target="_blank">코드</a> | |
 | Programmers | 최댓값과 최솟값 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939" target="_blank">문제</a> / <a href="./Programmers/S12939.java" target="_blank">코드</a> | |
 | Programmers | 직사각형 별찍기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12969" target="_blank">문제</a> / <a href="./Programmers/S12969.java" target="_blank">코드</a> | |
+| Programmers | JadenCase 문자열 만들기 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951" target="_blank">문제</a> / <a href="./Programmers/S12951.java" target="_blank">코드</a> | |
+| Programmers | 올바른 괄호 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909" target="_blank">문제</a> / <a href="./Programmers/S12909.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
