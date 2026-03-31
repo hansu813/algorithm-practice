@@ -54,6 +54,7 @@
 | Programmers | 최대공약수와 최소공배수 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940" target="_blank">문제</a> / <a href="./Programmers/S12940.java" target="_blank">코드</a> | |
 | Programmers | 최솟값 만들기 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941" target="_blank">문제</a> / <a href="./Programmers/S12941.java" target="_blank">코드</a> | |
 | Programmers | 크기가 작은 부분 문자열 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/147355" target="_blank">문제</a> / <a href="./Programmers/S147355.java" target="_blank">코드</a> | |
+| Programmers | 예산 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12982" target="_blank">문제</a> / <a href="./Programmers/S12982.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
