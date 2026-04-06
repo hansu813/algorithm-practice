@@ -58,6 +58,8 @@
 | Programmers | 이진 변환 반복하기 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129" target="_blank">문제</a> / <a href="./Programmers/S70129.java" target="_blank">코드</a> | |
 | Programmers | 삼총사 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131705" target="_blank">문제</a> / <a href="./Programmers/S131705.java" target="_blank">코드</a> | |
 | Programmers | 이상한 문자열 만들기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12930" target="_blank">문제</a> / <a href="./Programmers/S12930.java" target="_blank">코드</a> | |
+| Programmers | 3진법 뒤집기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935" target="_blank">문제</a> / <a href="./Programmers/S68935.java" target="_blank">코드</a> | |
+| Programmers | 숫자의 표현 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12924" target="_blank">문제</a> / <a href="./Programmers/S12924.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
