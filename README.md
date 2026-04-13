@@ -60,6 +60,8 @@
 | Programmers | 이상한 문자열 만들기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12930" target="_blank">문제</a> / <a href="./Programmers/S12930.java" target="_blank">코드</a> | |
 | Programmers | 3진법 뒤집기 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935" target="_blank">문제</a> / <a href="./Programmers/S68935.java" target="_blank">코드</a> | |
 | Programmers | 숫자의 표현 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12924" target="_blank">문제</a> / <a href="./Programmers/S12924.java" target="_blank">코드</a> | |
+| Programmers | 최소직사각형 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank">문제</a> / <a href="./Programmers/S86491.java" target="_blank">코드</a> | |
+| Programmers | 다음 큰 숫자 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12911" target="_blank">문제</a> / <a href="./Programmers/S12911.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
