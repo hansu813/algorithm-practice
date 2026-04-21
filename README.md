@@ -62,6 +62,7 @@
 | Programmers | 숫자의 표현 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12924" target="_blank">문제</a> / <a href="./Programmers/S12924.java" target="_blank">코드</a> | |
 | Programmers | 최소직사각형 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank">문제</a> / <a href="./Programmers/S86491.java" target="_blank">코드</a> | |
 | Programmers | 다음 큰 숫자 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12911" target="_blank">문제</a> / <a href="./Programmers/S12911.java" target="_blank">코드</a> | |
+| Programmers | 피보나치 수 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12945" target="_blank">문제</a> / <a href="./Programmers/S12945.java" target="_blank">코드</a> | |
 
 ## 📌 Baekjoon Online Judge
 | 플랫폼 | 문제 | 난이도 | 풀이 | 비고 |
